@@ -5,6 +5,7 @@ Currently I am a student at Geoergia Tech, having fun learning application of st
 Recently I have gotten interested in NLP. There is a lot of potential with respect to coming up with new mathematical models to help with natural language 
 procesing.
 I am looking to collabrate on projects related to sentiment analysis and summarizing text.
+I can be contacted at nadiapasha30@gmail.com
 
 <!---
 nadiapasha/nadiapasha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

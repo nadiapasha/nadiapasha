@@ -1,4 +1,4 @@
-Hi, I’m Nadia,
+Hi, I’m Nadia.
 I’m passionate about mathematics. Since Data Science is an up and coming field that uses mathematical concepts and has potential for growth and research,
 I am naturally gravitated to wards this field. 
 Currently I am a student at Geoergia Tech, having fun learning application of statistics and Linear Algebra in Data Science. 

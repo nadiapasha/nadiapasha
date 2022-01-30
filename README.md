@@ -1,10 +1,9 @@
 Hi, I’m Nadia.
 I’m passionate about mathematics. Since Machine Learning is an up and coming field that uses mathematical concepts and has potential for growth and research,
 I am naturally gravitated towards this field. 
-Currently I am a student at Geoergia Tech, having fun learning application of statistics and Linear Algebra in Data Science. 
-Recently I have gotten interested in NLP. There is a lot of potential with respect to coming up with new mathematical models to help with natural language 
-procesing.
-I am looking to collabrate on projects related to sentiment analysis and summarizing text.
+Currently I am a student at Geoergia Tech, having fun learning application of statistics, Linear Algebra and differential geometry in Data Science. 
+Recently I have gotten interested in NLP and image processing. There is a lot of potential with respect to coming up with new mathematical models in both these areasof machine learning.
+I am looking to collabrate on projects related to summarizing text and image recocignition.
 I can be contacted at nadiapasha30@gmail.com
 
 <!---

@@ -1,9 +1,4 @@
-Hi, I’m Nadia.
-I’m passionate about mathematics. Since Machine Learning is an up and coming field that uses mathematical concepts and has potential for growth and research,
-I am naturally gravitated towards this field. 
-Currently I am a student at Geoergia Tech, having fun learning application of statistics, Linear Algebra and differential geometry in Data Science. 
-Recently I have gotten interested in NLP and image processing. There is a lot of potential with respect to coming up with new mathematical models in both these areas of machine learning.
-I am looking to collabrate on projects related to summarizing text and image recocignition.
+Hi, I’m Nadia. I’m passionate about mathematics and its applications in Machine Learning. I just got done with my masters in Analytics with a focus in Deep Learning from Groegia Tech. I understand the underlying theory in machine learning algorithms which helps in troubleshooting and tweaking models to address unique scenarios that every problem presents. In addition to the knowledge gained from academics, I have experience working on SOTA Deep Learning models for a small R&D team. Currently I am working on a Machine Translation project for a low resource language (URDU).
 I can be contacted at nadiapasha30@gmail.com
 
 <!---
